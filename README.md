@@ -1,2 +1,2 @@
-# Soil-Moisture-Code
-Code for soil moisture sensor
+# SORTIFY Code
+Code for SORTIFY
